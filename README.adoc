@@ -1,0 +1,53 @@
+:revision: 2021.51.0
+:icons: font
+:main-title: Spring Guides 🔥
+:description: 스프링 공식 가이드를 관리하는 리포지터리입니다 👍👍
+:git_service: https://github.com/CheolhoJeon/
+:project_name: spring-guides
+:project_license: Copyright
+:experimental:
+:hardbreaks:
+
+
+= {main-title}
+
+image:https://img.shields.io/badge/version-{revision}-blue.svg[link="./CHANGELOG",title="version"]  image:https://img.shields.io/badge/license-{project_license}-lightgrey.svg[link="./LICENSE",title="license"]
+
+
+== What is the Project
+
+{description}
+
+
+== Status
+
+* link:./CHANGELOG[History]
+* link:{git_service}{project_name}/wiki[Wiki] / link:{git_service}{project_name}/issues[Issues List]
+
+
+== Building
+
+. Clone a copy of the repository:
++
+[subs="attributes"]
+----
+$ git clone {git_service}{project_name}.git
+----
++
+
+. Change to the project directory:
++
+[subs="attributes"]
+----
+$ cd {project_name}
+----
++
+
+
+== Contents
+
+* link:building-restful-web-service/[Building Restful Web Service]
+
+== Contributor
+
+* Jeon Cheolho <woung2770@gmail.com>
