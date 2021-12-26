@@ -47,6 +47,7 @@ $ cd {project_name}
 == Contents
 
 * link:building-restful-web-service/[Building Restful Web Service]
+* link:creating-api-documentation-with-restdocs/[Creating API Documentation with Restdocs]
 
 == Contributor
 
