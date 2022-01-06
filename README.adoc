@@ -48,6 +48,7 @@ $ cd {project_name}
 
 * link:building-restful-web-service/[Building Restful Web Service]
 * link:creating-api-documentation-with-restdocs/[Creating API Documentation with Restdocs]
+* link:using-webSocket-to-build-an-interactive-web-application/[Using WebSocket to build an interactive web application]
 
 == Contributor
 
